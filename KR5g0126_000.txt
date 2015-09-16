@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:58:18.019457
+#+TITLE: 洞真上清開天三圖七星移度經
+#+PROPERTY: DZID  DZ1317
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，33—448 二卷 正一部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
